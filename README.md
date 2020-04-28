@@ -20,7 +20,7 @@
 
 ## :computer: Tecnologias utilizadas:
 
-- :iphone: React Native - Expo no mobile.
+- :iphone: React Native no mobile.
 - ☕️ Node.js no Back-End.
 
 ## :dvd: Instalação:
